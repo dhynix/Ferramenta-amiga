@@ -1,0 +1,104 @@
+FERRAMENTA AMIGA - demonstracao academica com dados ficticios.
+Dados apenas em memoria. Nada e salvo ao encerrar.
+
+1-Cadastrar ferramenta
+2-Listar acervo
+3-Pesquisar ferramenta
+4-Registrar emprestimo
+5-Registrar devolucao
+6-Exibir resumo
+0-Sair
+Opcao: Codigo (ate 16 caracteres): Nome: Categoria: Quantidade total (1 a 10000): Ferramenta cadastrada.
+
+1-Cadastrar ferramenta
+2-Listar acervo
+3-Pesquisar ferramenta
+4-Registrar emprestimo
+5-Registrar devolucao
+6-Exibir resumo
+0-Sair
+Opcao: Codigo (ate 16 caracteres): Nome: Categoria: Quantidade total (1 a 10000): Ferramenta cadastrada.
+
+1-Cadastrar ferramenta
+2-Listar acervo
+3-Pesquisar ferramenta
+4-Registrar emprestimo
+5-Registrar devolucao
+6-Exibir resumo
+0-Sair
+Opcao: 
+--- Registro 1 ---
+Codigo: F001
+Nome: Furadeira
+Categoria: Eletrica
+Total: 4 | Emprestadas: 0 | Disponiveis: 4
+
+--- Registro 2 ---
+Codigo: F002
+Nome: Martelo
+Categoria: Manual
+Total: 6 | Emprestadas: 0 | Disponiveis: 6
+
+1-Cadastrar ferramenta
+2-Listar acervo
+3-Pesquisar ferramenta
+4-Registrar emprestimo
+5-Registrar devolucao
+6-Exibir resumo
+0-Sair
+Opcao: Buscar por 1-Codigo ou 2-Nome: Termo: Codigo: F001
+Nome: Furadeira
+Categoria: Eletrica
+Total: 4 | Emprestadas: 0 | Disponiveis: 4
+Resultados encontrados: 1
+
+1-Cadastrar ferramenta
+2-Listar acervo
+3-Pesquisar ferramenta
+4-Registrar emprestimo
+5-Registrar devolucao
+6-Exibir resumo
+0-Sair
+Opcao: Codigo da ferramenta: Quantidade maxima nesta operacao: 4
+Quantidade: Informe um inteiro entre 1 e 4.
+Quantidade: Emprestimo registrado.
+Codigo: F001
+Nome: Furadeira
+Categoria: Eletrica
+Total: 4 | Emprestadas: 2 | Disponiveis: 2
+
+1-Cadastrar ferramenta
+2-Listar acervo
+3-Pesquisar ferramenta
+4-Registrar emprestimo
+5-Registrar devolucao
+6-Exibir resumo
+0-Sair
+Opcao: Codigo da ferramenta: Quantidade maxima nesta operacao: 2
+Quantidade: Devolucao registrada.
+Codigo: F001
+Nome: Furadeira
+Categoria: Eletrica
+Total: 4 | Emprestadas: 1 | Disponiveis: 3
+
+1-Cadastrar ferramenta
+2-Listar acervo
+3-Pesquisar ferramenta
+4-Registrar emprestimo
+5-Registrar devolucao
+6-Exibir resumo
+0-Sair
+Opcao: Tipos cadastrados: 2
+Unidades totais: 10
+Emprestadas: 1
+Disponiveis: 9
+Percentual emprestado: 10.0%
+
+1-Cadastrar ferramenta
+2-Listar acervo
+3-Pesquisar ferramenta
+4-Registrar emprestimo
+5-Registrar devolucao
+6-Exibir resumo
+0-Sair
+Opcao: Programa encerrado. Os dados em memoria foram descartados.

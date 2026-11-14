@@ -1,0 +1,17 @@
+Compilador: /usr/bin/cc
+Compilacao: aprovada
+Diagnosticos: nenhum
+T01 Acervo vazio: APROVADO
+T02 Cadastro e listagem: APROVADO
+T03 Codigo duplicado: APROVADO
+T04 Entradas invalidas: APROVADO
+T05 Pesquisa: APROVADO
+T06 Emprestimo sem saldo: APROVADO
+T07 Registro inexistente: APROVADO
+T08 Devolucao sem emprestimo: APROVADO
+T09 Limites e resumo: APROVADO
+T10 Capacidade: APROVADO
+T11 Texto longo: APROVADO
+T12 EOF no cadastro: APROVADO
+T13 Limite inteiro e lixo: APROVADO
+T14 EOF no menu: APROVADO

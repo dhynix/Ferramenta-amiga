@@ -1,0 +1,4 @@
+ferramenta_amiga
+*.exe
+__pycache__/
+.DS_Store
