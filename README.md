@@ -5,7 +5,6 @@ UniCesumar — Engenharia de Software — Turma B, noturno
 Maringá — PR, 2026
 
 Protótipo acadêmico de terminal em C99 para controlar um acervo comunitário de ferramentas.
-Tema proposto a partir da estrutura do modelo fornecido; confirmar aderência ao desafio original e à primeira entrega do grupo, que não foram disponibilizados.
 
 ## Funcionalidades
 1. Cadastrar ferramenta com código único, nome, categoria e total.
@@ -30,7 +29,7 @@ gcc -std=c99 -Wall -Wextra -Wpedantic ferramenta_amiga.c -o ferramenta_amiga.exe
 .\ferramenta_amiga.exe
 ```
 
-Verificado em macOS x86_64 com Apple Clang 14.0.3: compilação C99 sem avisos e 14 testes aprovados. Resultados em `resultado_testes.txt`. A sequência completa do roteiro também foi executada, com saída em `execucao_demonstracao.txt`. O executável incluído é para este Mac Intel; em outra plataforma, recompile o código-fonte.
+Verificado em macOS x86_64 com Apple Clang 14.0.3: compilação C99 sem avisos e 14 testes aprovados. Resultados em `resultado_testes.txt`. A sequência completa do roteiro também foi executada, com saída em `execucao_demonstracao.txt`. O repositório distribui o código-fonte: compile os arquivos para o sistema em que serão utilizados.
 
 ## Testes reproduzíveis
 Com Python 3 e compilador no PATH:
@@ -60,4 +59,4 @@ O script compila o fonte em diretório temporário e realiza casos de aceitaçã
 Conferir a identificação preenchida e incluir outros integrantes, se houver; confirmar escopo com o professor, compilar e testar, substituir exemplos ilustrativos por capturas reais, publicar o repositório e inserir os links do GitHub e do vídeo. Não copiar nomes, matrículas ou links do modelo.
 
 ## VS Code no Mac
-Abra esta pasta pelo menu Arquivo > Abrir Pasta. Depois use Terminal > Executar Tarefa > Executar Ferramenta Amiga. A tarefa compila com Clang e inicia o programa no terminal integrado.
+Abra a pasta do repositório pelo menu Arquivo > Abrir Pasta. Em Terminal > Novo Terminal, execute os comandos de compilação e execução listados acima.
